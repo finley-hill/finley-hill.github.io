@@ -1,2 +1,2 @@
-# finleyhill.github.io
+# finley-hill.github.io
 Portfolio Website
